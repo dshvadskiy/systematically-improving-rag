@@ -4,3 +4,8 @@
 # uv lock files (recursive)
 **/uv.lock
 
+data/
+lancedb/
+.env
+.specstory/
+.venv/
