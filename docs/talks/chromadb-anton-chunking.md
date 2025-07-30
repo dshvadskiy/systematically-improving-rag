@@ -19,6 +19,7 @@ date: 2025-01-01
 
 I hosted a special session with Anton from ChromaDB to discuss their latest technical research on text chunking for RAG applications. This session covers the fundamentals of chunking strategies, evaluation methods, and practical tips for improving retrieval performance in your AI systems.
 
+[Text Chunking for RAG w/ ChromaDB](https://www.youtube.com/watch?v=GYj4Ay7SdWw){: .md-button .md-button--primary}
 ## What is chunking and why is it important for RAG systems?
 
 Chunking is the process of splitting documents into smaller components to enable effective retrieval of relevant information. Despite what many believe, chunking remains critical even as LLM context windows grow larger.
